@@ -59,7 +59,7 @@ Since this is a client-side application using **ES6 Modules**, it requires a loc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/password-strength-calculator.git
+   git clone https://github.com/bksiddhant/password-strength-calculator.git
    ```
 
 2. **Run a local server**:
