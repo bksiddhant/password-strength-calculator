@@ -1,6 +1,6 @@
 # Password Strength Calculator & Generator
 
-A privacy-first, zero-dependency password strength analyzer and secure generator. Built with a focus on deep heuristics, transparency, and military-grade offline security.
+A privacy-first, zero-dependency password strength analyzer and secure generator. Built with a focus on deep heuristics, transparency, and extreme offline security.
 
 ## 🚀 Overview
 
